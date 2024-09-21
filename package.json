@@ -14,10 +14,13 @@
 	"version": "1.0.0",
 	"description": "A back-end development project using Node.js and Express for APIs.",
 	"keywords": [
-		"backend",
-		"apis",
-		"freecodecamp"
-	],
+    "backend",
+    "apis",
+    "freecodecamp",
+    "nodejs",
+    "express",
+    "web-development"
+],
 	"author": "Joseph Ogbole",
 	"license": "ISC",
 	"bugs": {
