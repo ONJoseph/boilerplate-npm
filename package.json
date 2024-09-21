@@ -22,7 +22,7 @@
     "web-development"
 ],
 	"author": "Joseph Ogbole",
-	"license": "ISC",
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/ONJoseph/boilerplate-npm/issues"
 	},
