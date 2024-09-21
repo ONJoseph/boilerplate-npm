@@ -12,7 +12,7 @@
 		"url": "git+https://github.com/ONJoseph/boilerplate-npm.git"
 	},
 	"version": "1.0.0",
-	"description": "back-end-development-and-apis",
+	"description": "A back-end development project using Node.js and Express for APIs.",
 	"keywords": [
 		"backend",
 		"apis",
