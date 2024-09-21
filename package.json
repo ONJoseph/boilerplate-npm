@@ -1,30 +1,31 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/ONJoseph/boilerplate-npm.git"
-	},
-	"version": "1.0.0",
-	"description": "A back-end development project using Node.js and Express for APIs.",
-	"keywords": [
-    "backend",
-    "apis",
-    "freecodecamp",
-    "nodejs",
-    "express",
-    "web-development"
-],
-	"author": "Joseph Ogbole",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/ONJoseph/boilerplate-npm/issues"
-	},
-	"homepage": "https://github.com/ONJoseph/boilerplate-npm#readme"
+    "name": "fcc-learn-npm-package-json",
+    "dependencies": {
+        "express": "^4.14.0",
+        "@freecodecamp/example": "1.1.0"
+    },
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
+    },
+    "version": "1.0.0",
+    "description": "A project that does something awesome",
+    "keywords": [
+        "backend",
+        "apis",
+        "freecodecamp",
+        "nodejs",
+        "express",
+        "web-development"
+    ],
+    "author": "Joseph Ogbole",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
+    },
+    "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme"
 }
